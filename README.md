@@ -34,10 +34,14 @@ macOS 下的软件管理除了 App Store 之外，还有包管理器 [Homebrew](
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner)：软件卸载工具，可选产品有 [AppCleaner](https://freemacsoft.net/appcleaner/)。 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [PrettyClean](https://www.prettyclean.cc/zh)：轻量级磁盘清理工具，带有软件卸载功能。
-- [ICE](https://icemenubar.app/)：状态栏管理，代替付费产品 Bartender。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [ICE](https://icemenubar.app/)：菜单栏管理工具，代替付费产品 Bartender；可选产品有 [Hidden Bar](https://github.com/dwarvesf/hidden)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [The Unarchiver](https://macpaw.com/the-unarchiver)：解压缩工具，支持常见格式如rar/zip/7z/tar等；可选产品有 [Keka](https://www.keka.io/zh-cn/)。
 - [ImageOptim](https://imageoptim.com/mac)：图片压缩工具，支持清除图片元数据；可选产品有 [Caesium](https://saerasoft.com/caesium) 或 Web 版 [squoosh](https://squoosh.app/) 。
 
 - [Marta](https://marta.sh/)：文件管理工具，类似系统自带的Finder，支持自定义。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 - [Calibre](https://calibre-ebook.com/)：电子书管理和阅读工具，跨平台；可选产品有 [Koodo Reader](https://github.com/koodo-reader/koodo-reader)。
+- [Lulu](https://github.com/objective-see/LuLu)：防火墙工具，其他同一开发者的安全类工具工可以[在这里](https://objective-see.org/tools.html)查看。
+- [Stats](https://github.com/exelban/stats)：系统资源监视器，可自定义菜单栏显示内容，代替付费产品 iStat Menus。
+- [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持OCR和多种翻译服务。
+- [Loop](https://github.com/MrKai77/Loop)：轻量级窗口管理工具，可选产品有 [Rectangle](https://github.com/rxhanson/Rectangle)。
