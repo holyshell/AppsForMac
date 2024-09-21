@@ -23,8 +23,21 @@ macOS 下的软件管理除了 App Store 之外，还有包管理器 [Homebrew](
 
 - [OBS](https://obsproject.com/)：专业级的录制和直播工具，跨平台；轻量级录制工具可选 [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Raycast](https://www.raycast.com)：综合效率工具，支持插件，可代替很多独立软件，含付费功能；同类付费产品有[Alfred](https://www.alfredapp.com/)。
+- [Raycast](https://www.raycast.com)：综合效率工具，支持插件，可代替很多独立软件，含付费功能；代替付费产品 Alfred。
 
-- [IINA](https://iina.io/)：音视频播放器，几乎支持所有格式，可选产品有[VLC](https://www.videolan.org/vlc/)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [IINA](https://iina.io/)：音视频播放器，几乎支持所有格式，可选产品有 [VLC](https://www.videolan.org/vlc/)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Snipaste](https://zh.snipaste.com/)：截图工具，支持贴图、标注、取色等，跨平台；可选产品有 [Flameshot](https://flameshot.org/)。
+
+- [NDM](https://www.neatdownloadmanager.com/index.php/en/)：多线程下载工具，支持浏览器插件进行流媒体下载，跨平台；可选产品有 [FDM](https://www.neatdownloadmanager.com/index.php/en/)。
+
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner)：软件卸载工具，可选产品有 [AppCleaner](https://freemacsoft.net/appcleaner/)。 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
+- [PrettyClean](https://www.prettyclean.cc/zh)：轻量级磁盘清理工具，带有软件卸载功能。
+- [ICE](https://icemenubar.app/)：状态栏管理，代替付费产品 Bartender。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
+- [The Unarchiver](https://macpaw.com/the-unarchiver)：解压缩工具，支持常见格式如rar/zip/7z/tar等；可选产品有 [Keka](https://www.keka.io/zh-cn/)。
+- [ImageOptim](https://imageoptim.com/mac)：图片压缩工具，支持清除图片元数据；可选产品有 [Caesium](https://saerasoft.com/caesium) 或 Web 版 [squoosh](https://squoosh.app/) 。
+
+- [Marta](https://marta.sh/)：文件管理工具，类似系统自带的Finder，支持自定义。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Calibre](https://calibre-ebook.com/)：电子书管理和阅读工具，跨平台；可选产品有 [Koodo Reader](https://github.com/koodo-reader/koodo-reader)。
