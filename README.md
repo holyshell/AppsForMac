@@ -10,9 +10,11 @@
 
 macOS 下的软件管理除了 App Store 之外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下我会优先使用 Homebrew 对软件进行安装/更新/卸载等操作，同类产品还有 [MacPorts](https://www.macports.org/index.php) ，Homebrew 简要命令说明如下：
 
+
+
 - `brew install [--cask] xxx`：安装软件，如果安装图形界面软件则加上`--cask`参数；
-- `brew list`：列出所有已安装软件列表；
 - `brew uninstall [--cask] xxx`：卸载软件，如果卸载图形界面软件则加上`--cask`参数；
+- `brew list`：列出所有已安装软件；
 - `brew info xxx`：查看某软件信息；
 - `brew upgrade xxx`：更新某个软件；
 - `brew cleanup xxx`：清理某软件的旧版本。
