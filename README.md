@@ -29,7 +29,7 @@ macOS 下的软件管理除了 App Store 之外，还有包管理器 [Homebrew](
 
 - [Snipaste](https://zh.snipaste.com/)：截图工具，支持贴图、标注、取色等，跨平台；可选产品有 [Flameshot](https://flameshot.org/)。
 
-- [NDM](https://www.neatdownloadmanager.com/index.php/en/)：多线程下载工具，支持浏览器插件进行流媒体下载，跨平台；可选产品有 [FDM](https://www.neatdownloadmanager.com/index.php/en/)。
+- [NDM](https://www.neatdownloadmanager.com/index.php/en/)：多线程下载工具，支持浏览器插件进行流媒体下载，跨平台；可选产品有 [FDM](https://www.neatdownloadmanager.com/index.php/en/) [qbittorrent-E](https://github.com/c0re100/qBittorrent-Enhanced-Edition)。
 
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner)：软件卸载工具，可选产品有 [AppCleaner](https://freemacsoft.net/appcleaner/)。 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
@@ -43,5 +43,6 @@ macOS 下的软件管理除了 App Store 之外，还有包管理器 [Homebrew](
 - [Calibre](https://calibre-ebook.com/)：电子书管理和阅读工具，跨平台；可选产品有 [Koodo Reader](https://github.com/koodo-reader/koodo-reader)。
 - [Lulu](https://github.com/objective-see/LuLu)：防火墙工具，其他同一开发者的安全类工具工可以[在这里](https://objective-see.org/tools.html)查看。
 - [Stats](https://github.com/exelban/stats)：系统资源监视器，可自定义菜单栏显示内容，代替付费产品 iStat Menus。
-- [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持OCR和多种翻译服务。
-- [Loop](https://github.com/MrKai77/Loop)：轻量级窗口管理工具，可选产品有 [Rectangle](https://github.com/rxhanson/Rectangle)。
+- [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持 OCR 和多种翻译服务。
+- [Loop](https://github.com/MrKai77/Loop)：轻量级窗口管理工具，可选产品有 [Rectangle](https://github.com/rxhanson/Rectangle)（含付费功能）。
+- [battery](https://github.com/actuallymentor/battery)：将电池电量限制在80%，增加电池寿命，可选产品有 [AIDente](https://apphousekitchen.com/zh-hans/)（含付费功能）。
