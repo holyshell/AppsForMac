@@ -17,8 +17,13 @@ macOS 下的软件管理除了 App Store 之外，还有著名的包管理器 [H
 - `brew upgrade xxx`：更新某个软件；
 - `brew cleanup xxx`：清理某软件的旧版本。
 
+> 带有 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">标识说明可以使用Homebrew进行安装。
+
 ## Tools List
 
-- [OBS](https://obsproject.com/)：功能强大的录制和直播工具，跨平台；
-- 
+- [OBS](https://obsproject.com/)：功能强大的录制和直播工具，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
+- [Raycast](https://www.raycast.com)：综合效率工具，支持插件，`含付费功能`，同类产品有[Alfred](https://www.alfredapp.com/)。
+
+- [IINA](https://iina.io/)：音视频播放器，几乎支持所有格式，也可以选择[VLC](https://www.videolan.org/vlc/)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
