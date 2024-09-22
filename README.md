@@ -51,11 +51,13 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Whisky](https://github.com/Whisky-App/Whisky)：在 macOS 上运行 Windows 应用程序。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
+- [UTM](https://mac.getutm.app/)：虚拟机管理工具；可选产品有 [VMware Fusion Pro](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)、[VirtualBox](https://www.virtualbox.org/) 。
+
 - [Clash verge rev](https://github.com/clash-verge-rev/clash-verge-rev)：网络代理管理工具；可选产品有 [Mihomo Party ](https://github.com/mihomo-party-org/mihomo-party)、[FIClash](https://github.com/chen08209/FlClash)等。
 
 - [Obsidian](https://obsidian.md/)：私有化的笔记管理工具，插件丰富，跨平台，含付费功能；可选产品有 [Logseq](https://logseq.com/)、[Anytype](https://anytype.io/) 等。
 
-- [LICEcap](https://www.cockos.com/licecap/)：GIF 图片制作工具，跨平台；可选产品有 [GIPHY](https://giphy.com/apps/giphycapture)。
+- [LICEcap](https://www.cockos.com/licecap/)：GIF 图片制作工具，跨平台；可选产品有 [GIPHY](https://giphy.com/apps/giphycapture)、[GIFski](https://github.com/sindresorhus/Gifski) 。
 
 - [Zed](https://zed.dev/)：代码编辑工具，支持插件和 AI （需登录），跨平台；可选产品有 [CotEditor](https://coteditor.com/)、[VSCode](https://code.visualstudio.com/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
