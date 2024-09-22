@@ -52,13 +52,29 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Whisky](https://github.com/Whisky-App/Whisky)：在 macOS 上运行 Windows 应用程序。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Clash verge rev](https://github.com/clash-verge-rev/clash-verge-rev)：网络代理管理工具；可选产品有 [Mihomo Party ](https://github.com/mihomo-party-org/mihomo-party)、[FIClash](https://github.com/chen08209/FlClash)等。
+
 - [Obsidian](https://obsidian.md/)：私有化的笔记管理工具，插件丰富，跨平台，含付费功能；可选产品有 [Logseq](https://logseq.com/)、[Anytype](https://anytype.io/) 等。
+
 - [LICEcap](https://www.cockos.com/licecap/)：GIF 图片制作工具，跨平台；可选产品有 [GIPHY](https://giphy.com/apps/giphycapture)。
+
 - [Zed](https://zed.dev/)：代码编辑工具，支持插件和 AI （需登录），跨平台；可选产品有 [CotEditor](https://coteditor.com/)、[VSCode](https://code.visualstudio.com/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
 - [Zotero](https://www.zotero.org/)：文献综合管理工具，支持插件，跨平台；可选产品有 [Paperlib](https://paperlib.app/cn/) 。
+
 - [Shotcut](https://www.shotcut.org/)：音视频剪辑工具，跨平台；可选产品有 [Openshot](https://www.openshot.org/zh-hans/)、[LosslessCut](https://github.com/mifi/lossless-cut)、[Kdenlive](https://invent.kde.org/multimedia/kdenlive) 等。
-- [Blender](https://www.blender.org/)：3D创作套件，支持建模、渲染、动画、合成等功能，跨平台。
-- [Audacity](https://www.audacityteam.org/)：音频录制和编辑工具，跨平台。
+
+- [Blender](https://www.blender.org/)：3D 创作套件，支持建模、渲染、动画、合成等功能，跨平台。
+
+- [Audacity](https://www.audacityteam.org/)：音频录制和编辑工具，支持多种音频格式，跨平台。
+
 - [Warp](https://www.warp.dev/)：终端管理工具，支持 AI，需登录使用，跨平台；可选产品有 [iTerm2](https://iterm2.com/index.html)、[Kitty](https://sw.kovidgoyal.net/kitty/)、[Tabby](https://tabby.sh/)、[Alacritty](https://alacritty.org/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
 - [MOS](https://github.com/Caldis/Mos)：鼠标增强工具，平滑鼠标滚动；可选产品有 [Mac-mouse-fix](https://macmousefix.com/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
 - [HandBrake](https://handbrake.fr/)：视频转码器，支持格式转换和压缩，跨平台。
+
+- [Omnivore](https://omnivore.app/)：稍后阅读管理工具，支持 RSS、Newsletter和浏览器扩展，跨平台。
+
+- [LM Studio](https://lmstudio.ai/)：一站式本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/) 。
+
+  
