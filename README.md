@@ -4,7 +4,7 @@
 
 ## introduction
 
-收集和记录 macOS 平台下优秀的软件和工具，以开源和免费软件为主。GitHub 上已经有很多 macOS 软件汇总的 repo，比如 [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)，本 repo 梳理的软件纯粹基于个人偏好，罗列自己正在使用或将来可能会使用的软件，针对部分软件有同类选择的会进行简要说明，但不会全部列出，不定时更新。
+收集和记录 macOS 平台下优秀的软件，以开源和免费为主。GitHub 上已经有很多 macOS 软件汇总 repo，如 [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)，本 repo 梳理的软件基于个人偏好，罗列自己正在使用或将来可能会使用的软件，针对某些软件有同类产品的会一并列出（部分），不定时更新，如果你有更多优秀软件推荐，欢迎 issue 😄
 
 ## Package manager
 
@@ -58,6 +58,6 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Zotero](https://www.zotero.org/)：文献综合管理工具，支持插件，跨平台；可选产品有 [Paperlib](https://paperlib.app/cn/) 。
 - [Shotcut](https://www.shotcut.org/)：音视频剪辑工具，跨平台；可选产品有 [Openshot](https://www.openshot.org/zh-hans/)、[LosslessCut](https://github.com/mifi/lossless-cut)、[Kdenlive](https://invent.kde.org/multimedia/kdenlive) 等。
 - [Blender](https://www.blender.org/)：3D创作套件，支持建模、渲染、动画、合成等功能，跨平台。
-- [Warp](https://www.warp.dev/)：终端（Terminal）管理工具，支持 AI，需登录使用，跨平台；可选产品有 [iTerm2](https://iterm2.com/index.html)、[Kitty](https://sw.kovidgoyal.net/kitty/)、[Tabby](https://tabby.sh/)、[Alacritty](https://alacritty.org/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Warp](https://www.warp.dev/)：终端管理工具，支持 AI，需登录使用，跨平台；可选产品有 [iTerm2](https://iterm2.com/index.html)、[Kitty](https://sw.kovidgoyal.net/kitty/)、[Tabby](https://tabby.sh/)、[Alacritty](https://alacritty.org/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 - [MOS](https://github.com/Caldis/Mos)：鼠标增强工具，平滑鼠标滚动；可选产品有 [Mac-mouse-fix](https://macmousefix.com/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
-- 
+- [HandBrake](https://handbrake.fr/)：视频转码器，支持格式转换和压缩，跨平台。
