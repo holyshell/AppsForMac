@@ -4,15 +4,15 @@
 
 ## introduction
 
-收集和记录 macOS 平台下优秀的软件，基于个人偏好，罗列正在使用或将来可能会使用的软件，针对某些软件有同类产品的会一并列出（部分），不定时更新，如果你有更多优秀软件推荐，欢迎 issues 😄
+收集和记录 macOS 平台下优秀的实用软件，基于个人偏好，罗列正在使用或将来可能会使用的软件，针对某些软件有同类产品的会一并列出（部分），不定时更新，如果你有更多优秀软件推荐，欢迎 issues 😄
 
 - 以开源和免费软件为主；
-- 优先选择图形界面软件，也包含 CLI（命令行软件）和 Web 产品；
+- 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
 - 介绍中描述有`跨平台`的软件，即除支持 macOS 外， 还支持其他系统（Windows、Linux 或 Android）。
 
 ## Package manager
 
-macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下我会优先使用 Homebrew 对软件进行安装/更新/卸载等操作，同类产品还有 [MacPorts](https://www.macports.org/index.php) ，Homebrew 命令简要说明如下，更多使用教程可查阅[官方文档](https://docs.brew.sh/)：
+macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下我会优先使用 Homebrew 对软件进行管理，同类产品还有 [MacPorts](https://www.macports.org/index.php) ，Homebrew 命令简要说明如下，更多使用教程可查阅[官方文档](https://docs.brew.sh/)：
 
 - `brew install [--cask] xxx`：安装软件，如果安装图形界面软件则加上`--cask`参数；
 - `brew uninstall [--cask] xxx`：卸载软件，如果卸载图形界面软件则加上`--cask`参数；
@@ -50,7 +50,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Stats](https://github.com/exelban/stats)：系统资源监视器，可自定义菜单栏显示内容，代替付费产品 iStat Menus。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 - [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持 OCR 和多种翻译服务，浏览器集成。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 - [Loop](https://github.com/MrKai77/Loop)：轻量级窗口管理工具，可选产品有 [Rectangle](https://github.com/rxhanson/Rectangle)（含付费功能）。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
-- [Battery](https://github.com/actuallymentor/battery)：将电池电量限制在80%，增加电池寿命，可选产品有 [AIDente](https://apphousekitchen.com/zh-hans/)（含付费功能）。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Battery](https://github.com/actuallymentor/battery)：将电池电量限制在80%，延长电池寿命，可选产品有 [AIDente](https://apphousekitchen.com/zh-hans/)（含付费功能）。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Whisky](https://github.com/Whisky-App/Whisky)：在 macOS 上运行 Windows 应用程序。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
@@ -84,8 +84,12 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [LM Studio](https://lmstudio.ai/)：一站式本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/) 。
 
-- [OmniDiskSweeper](https://www.omnigroup.com/more)：磁盘文件分析工具，快速查看大文件并打开或删除到废纸篓。
+- [OmniDiskSweeper](https://www.omnigroup.com/more)：磁盘空间分析工具，快速查看大文件并打开或删除到废纸篓。
 
 - [NetNewsWire](https://netnewswire.com/)：RSS 管理和阅读工具，同时支持 iOS 。
+
+- [Sigil](https://sigil-ebook.com/sigil/)：创建和编辑 EPUB 格式电子书。
+
+- [f.lux](https://justgetflux.com/)：调整屏幕色温和亮度，保护眼睛。
 
   
