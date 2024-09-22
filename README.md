@@ -43,6 +43,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Marta](https://marta.sh/)：文件管理工具，类似系统自带的Finder，支持自定义。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 - [Calibre](https://calibre-ebook.com/)：电子书管理、转换和阅读工具，支持插件和多种格式，跨平台；可选产品有 [Koodo Reader](https://github.com/koodo-reader/koodo-reader)。
+- [Skim](https://skim-app.sourceforge.io/)：PDF阅读和编辑工具，一般使用系统自带预览（Preview）。
 - [Lulu](https://github.com/objective-see/LuLu)：防火墙工具，其他同一开发者的安全类工具工可以[在这里](https://objective-see.org/tools.html)查看。
 - [Stats](https://github.com/exelban/stats)：系统资源监视器，可自定义菜单栏显示内容，代替付费产品 iStat Menus。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 - [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持 OCR 和多种翻译服务，浏览器集成。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
@@ -82,5 +83,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [LM Studio](https://lmstudio.ai/)：一站式本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/) 。
 
 - [OmniDiskSweeper](https://www.omnigroup.com/more)：磁盘文件分析工具，快速查看大文件并打开或删除到废纸篓。
+
+- [NetNewsWire](https://netnewswire.com/)：RSS 管理和阅读工具，同时支持 iOS 。
 
   
