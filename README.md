@@ -4,7 +4,7 @@
 
 ## introduction
 
-收集和记录 macOS 平台下优秀的软件，以开源和免费为主。GitHub 上已经有很多 macOS 软件汇总 repo，如 [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)，本 repo 梳理的软件基于个人偏好，罗列自己正在使用或将来可能会使用的软件，针对某些软件有同类产品的会一并列出（部分），不定时更新，如果你有更多优秀软件推荐，欢迎 issue 😄
+收集和记录 macOS 平台下优秀的软件，以开源和免费为主；基于个人偏好，罗列正在使用或将来可能会使用的软件，针对某些软件有同类产品的会一并列出（部分），不定时更新，如果你有更多优秀软件推荐，欢迎 issues 😄
 
 ## Package manager
 
@@ -73,9 +73,9 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [MOS](https://github.com/Caldis/Mos)：鼠标增强工具，平滑鼠标滚动；可选产品有 [Mac-mouse-fix](https://macmousefix.com/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [HandBrake](https://handbrake.fr/)：视频转码器，支持格式转换和压缩，跨平台。
+- [HandBrake](https://handbrake.fr/)：视频转码器，支持视频格式转换和压缩，跨平台。
 
-- [Omnivore](https://omnivore.app/)：稍后阅读管理工具，支持 RSS、Newsletter和浏览器扩展，跨平台。
+- [Omnivore](https://omnivore.app/)：稍后阅读管理工具，支持 RSS、Newsletter 和浏览器扩展，跨平台。
 
 - [LM Studio](https://lmstudio.ai/)：一站式本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/) 。
 
