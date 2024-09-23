@@ -42,7 +42,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Marta](https://marta.sh/)：文件管理工具，类似系统自带的 Finder，支持自定义。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 - [Calibre](https://calibre-ebook.com/)：电子书管理、转换和阅读工具，支持插件和多种格式，跨平台；可选产品有 [Koodo Reader](https://github.com/koodo-reader/koodo-reader)。
 - [Skim](https://skim-app.sourceforge.io/)：PDF 阅读和编辑工具，阅读一般使用系统自带预览（Preview）。
-- [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)：office办公套件，跨平台，一般用自带 iWork 系列，可选产品有 [OpenOffice](https://www.openoffice.org/zh-cn/)、[OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx)、[Google Docs](https://docs.google.com/)。
+- [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)：office办公套件，跨平台，可选产品有 [OpenOffice](https://www.openoffice.org/zh-cn/)、[OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx)、[Google Docs](https://docs.google.com/)。
 - [Anki](https://apps.ankiweb.net/)：智能学习系统，卡片式记忆学习，跨平台。
 - [Lulu](https://github.com/objective-see/LuLu)：防火墙工具，其他同一开发者的安全类工具工可以[在这里](https://objective-see.org/tools.html)查看。
 - [Stats](https://github.com/exelban/stats)：系统资源监视器，可自定义菜单栏显示内容，代替付费产品 iStat Menus。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
