@@ -8,7 +8,7 @@
 
 - 以开源和免费软件为主；
 - 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
-- 介绍中描述有`跨平台`的软件，即除支持 macOS 外， 还支持其他系统（Windows、Linux 或 Android）。
+- 描述有`跨平台`的软件，即除支持 macOS 外， 还支持其他操作系统。
 
 ## Package manager
 
@@ -89,11 +89,11 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Sigil](https://sigil-ebook.com/sigil/)：创建和编辑 EPUB 格式电子书。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Cyberduck](https://cyberduck.io/)：支持FTP、SFTP、WebDAV、S3、OneDrive等协议和云端存储浏览工具，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Cyberduck](https://cyberduck.io/)：支持 FTP、SFTP、WebDAV、S3、OneDrive 等协议和云端存储浏览工具，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [f.lux](https://justgetflux.com/)：调整屏幕色温和亮度，保护眼睛。
 
-- [Command X](https://sindresorhus.com/command-x)：在Finder中进行文件的剪切`Command+X`和粘贴`Command+V`小工具，代替传统复杂的快捷键。
+- [Command X](https://sindresorhus.com/command-x)：在 Finder 中进行文件的剪切`Command+X`和粘贴`Command+V`小工具，代替传统复杂的快捷键。
 
 - [Billfish](https://www.billfish.cn/)：素材管理工具，支持多种常见文件格式和浏览器插件；可选产品有 [Pixcall](https://pixcall.com/download) 。
 
