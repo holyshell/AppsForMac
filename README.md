@@ -87,6 +87,12 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Sigil](https://sigil-ebook.com/sigil/)：创建和编辑 EPUB 格式电子书。
 
+- [Cyberduck](https://cyberduck.io/)：支持FTP、SFTP、WebDAV、S3、OneDrive等协议和云端存储浏览工具，跨平台。
+
 - [f.lux](https://justgetflux.com/)：调整屏幕色温和亮度，保护眼睛。
+
+- [Command X](https://sindresorhus.com/command-x)：在Finder中进行文件的剪切`Command+X`和粘贴`Command+V`小工具，代替传统复杂的快捷键。
+
+- [Billfish](https://www.billfish.cn/)：素材管理工具，支持多种常见文件格式和浏览器插件；可选产品有 [Pixcall](https://pixcall.com/download) 。
 
   
