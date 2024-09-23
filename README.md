@@ -22,9 +22,9 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - `brew upgrade xxx`：更新某个软件；
 - `brew cleanup xxx`：清理某软件的旧版本。
 
-> 带有 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">标识表示可以使用 Homebrew 进行管理。
-
 ## Tools
+
+> 带有 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">标识表示可以使用 Homebrew 进行管理。
 
 - [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/)：非 Chromium 类主流浏览器，采用专有的 Quantum 引擎，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
