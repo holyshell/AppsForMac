@@ -8,7 +8,8 @@
 
 - 以开源和免费软件为主；
 - 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
-- 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他操作系统。
+- 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他系统（Windows、Linux、iOS 或 Android）；
+- :warning: 如果有软件需要完全磁盘访问权限（Full Disk Access）请谨慎，若无必要，不建议开启。
 
 ## Package manager
 
