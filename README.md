@@ -13,7 +13,7 @@
 
 ## Package manager
 
-macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下我会优先使用 Homebrew 对软件进行管理，同类产品还有 [MacPorts](https://www.macports.org/index.php) 或 [Applite](https://aerolite.dev/applite)，Homebrew 命令简要说明如下，更多教程可查阅[官方文档](https://docs.brew.sh/)：
+macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下会优先使用 Homebrew 对软件进行管理，同类产品还有 [MacPorts](https://www.macports.org/index.php) 或 [Applite](https://aerolite.dev/applite)，Homebrew 命令简要说明如下（更多教程可查阅[官方文档](https://docs.brew.sh/)）：
 
 - `brew install [--cask] xxx`：安装软件，如果安装图形界面软件则加上`--cask`参数；
 - `brew uninstall [--cask] xxx`：卸载软件，如果卸载图形界面软件则加上`--cask`参数；
@@ -60,11 +60,11 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Anki](https://apps.ankiweb.net/)：智能学习系统，记忆学习训练，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Lulu](https://github.com/objective-see/LuLu)：防火墙工具，其他同一开发者的安全类工具工可以[在这里](https://objective-see.org/tools.html)查看。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Lulu](https://github.com/objective-see/LuLu)：网络监控与防火墙工具，其他同一开发者的安全类工具工可以[在这里](https://objective-see.org/tools.html)查看。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Stats](https://github.com/exelban/stats)：系统资源监视器，可自定义菜单栏显示内容。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持 OCR 和多种翻译服务，浏览器集成。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持 OCR 和多种翻译服务；可选产品有 [Pot](https://github.com/pot-app/pot-desktop) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Loop](https://github.com/MrKai77/Loop)：轻量级窗口管理工具；可选产品有 [Rectangle](https://github.com/rxhanson/Rectangle)（含付费功能）。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
@@ -115,5 +115,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Command X](https://sindresorhus.com/command-x)：在 Finder 中进行文件的剪切`Command+X`和粘贴`Command+V`小工具，代替传统复杂的快捷键。
 
 - [Billfish](https://www.billfish.cn/)：素材管理工具，支持多种常见文件格式和浏览器插件；可选产品有 [Pixcall](https://pixcall.com/download) 。
+
+- [Drawio](https://github.com/jgraph/drawio-desktop)：流程图和白板工具，[在线版本](https://app.diagrams.net/)；可选产品有 [Excalidraw](https://excalidraw.com/) 。
 
   
