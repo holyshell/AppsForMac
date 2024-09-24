@@ -4,16 +4,16 @@
 
 ## introduction
 
-收集和记录 macOS 平台下优秀的实用软件，基于个人偏好，罗列正在使用或将来可能会使用的软件，针对某些软件有同类产品的会一并列出（部分），不定时更新。 😄
+基于个人偏好，收集和记录 macOS 平台下优秀的实用软件，不定时更新。 😄
 
 - 以开源和免费软件为主；
 - 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
 - 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他系统（Windows、Linux、iOS 或 Android）；
-- :warning: 如果有软件需要完全磁盘访问权限（Full Disk Access）请谨慎，若无必要，不建议开启。
+- :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，若无必要，不建议开启。
 
 ## Package manager
 
-macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下会优先使用 Homebrew 对软件进行管理，同类产品还有 [MacPorts](https://www.macports.org/index.php) 或 [Applite](https://aerolite.dev/applite)，Homebrew 命令简要说明如下（更多教程可查阅[官方文档](https://docs.brew.sh/)）：
+macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下会优先使用 Homebrew 对软件进行管理，同类产品还有 [MacPorts](https://www.macports.org/index.php) 或 [Applite](https://aerolite.dev/applite)，Homebrew 命令简要说明如下（更多可查阅[官方文档](https://docs.brew.sh/)）：
 
 - `brew install [--cask] xxx`：安装软件，如果安装图形界面软件则加上`--cask`参数；
 - `brew uninstall [--cask] xxx`：卸载软件，如果卸载图形界面软件则加上`--cask`参数；
