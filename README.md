@@ -76,7 +76,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Clash verge rev](https://github.com/clash-verge-rev/clash-verge-rev)：网络代理管理工具；可选产品有 [Mihomo Party ](https://github.com/mihomo-party-org/mihomo-party)、[FIClash](https://github.com/chen08209/FlClash)等。
 
-- [Obsidian](https://obsidian.md/)：本地化的知识管理工具，插件丰富，跨平台，含付费功能；可选产品有 [Logseq](https://logseq.com/)、[Anytype](https://anytype.io/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Obsidian](https://obsidian.md/)：本地化的知识管理工具，跨平台，含付费功能；可选产品有 [Logseq](https://logseq.com/)、[Anytype](https://anytype.io/)、[Zettlr](https://www.zettlr.com/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [LICEcap](https://www.cockos.com/licecap/)：GIF 图片制作工具，跨平台；可选产品有 [GIPHY](https://giphy.com/apps/giphycapture)、[GIFski](https://github.com/sindresorhus/Gifski) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
@@ -100,6 +100,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Omnivore](https://omnivore.app/)：稍后阅读管理工具，支持 RSS、Newsletter 和浏览器扩展，跨平台。
 
+- [Joplin](https://joplinapp.org/)：基于 markdown 的笔记工具，跨平台；可选产品有 [MiaoYan](https://github.com/tw93/MiaoYan)、[MarkEdit](https://github.com/MarkEdit-app/MarkEdit) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
 - [LM Studio](https://lmstudio.ai/)：一站式本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/) 。
 
 - [OmniDiskSweeper](https://www.omnigroup.com/more)：磁盘空间分析工具，快速查看大文件并打开或删除到废纸篓。
@@ -118,6 +120,6 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Drawio](https://github.com/jgraph/drawio-desktop)：流程图和白板工具，[在线版本](https://app.diagrams.net/)；可选产品有 [Excalidraw](https://excalidraw.com/) 。
 
-- [TomatoBar](https://github.com/ivoronin/TomatoBar)：番茄时钟，菜单栏工具。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [TomatoBar](https://github.com/ivoronin/TomatoBar)：番茄时钟，菜单栏工具；可选产品有 [Tomito](https://tomito.app/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
   
