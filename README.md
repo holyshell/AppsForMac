@@ -1,4 +1,4 @@
-# Tools For Mac
+# Apps For Mac
 
 > Some awesome software for macOS.
 
@@ -22,7 +22,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - `brew upgrade xxx`：更新某个软件；
 - `brew cleanup xxx`：清理某软件的旧版本。
 
-## Tools
+## Apps
 
 > 带有 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">标识表示可以使用 Homebrew 进行管理。
 
