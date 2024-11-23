@@ -60,7 +60,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Anki](https://apps.ankiweb.net/)：智能学习系统，记忆学习训练，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Lulu](https://github.com/objective-see/LuLu)：网络监控与防火墙工具，其他同一开发者的安全类工具工可以[在这里](https://objective-see.org/tools.html)查看。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Lulu](https://github.com/objective-see/LuLu)：网络监控与防火墙工具，其他同一开发者的安全类工具可以[在这里](https://objective-see.org/tools.html)查看。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Stats](https://github.com/exelban/stats)：系统资源监视器，可自定义菜单栏显示内容。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
@@ -119,6 +119,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Billfish](https://www.billfish.cn/)：素材管理工具，支持多种常见文件格式和浏览器插件；可选产品有 [Pixcall](https://pixcall.com/download) 。
 
 - [Drawio](https://github.com/jgraph/drawio-desktop)：流程图和白板工具，[在线版本](https://app.diagrams.net/)；可选产品有 [Excalidraw](https://excalidraw.com/) 。
+
+- [Achico](https://github.com/nuance-dev/achico)：图片、音视频和PDF等文件压缩工具，作者其他的 mini 工具可查他的 GitHub 主页。
 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar)：番茄时钟，菜单栏工具；可选产品有 [Tomito](https://tomito.app/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
