@@ -98,7 +98,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [HandBrake](https://handbrake.fr/)：视频转码器，支持视频格式转换和压缩，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Omnivore](https://omnivore.app/)：稍后阅读管理工具，支持 RSS、Newsletter 和浏览器扩展，跨平台。
+- [Omnivore](https://omnivore.app/)：~稍后阅读管理工具，支持 RSS、Newsletter 和浏览器扩展，跨平台。~
 
 - [Joplin](https://joplinapp.org/)：基于 markdown 的笔记工具，跨平台；可选产品有 [MiaoYan](https://github.com/tw93/MiaoYan)、[MarkEdit](https://github.com/MarkEdit-app/MarkEdit) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
@@ -124,4 +124,5 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar)：番茄时钟，菜单栏工具；可选产品有 [Tomito](https://tomito.app/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
+- [Kiwix](https://kiwix.org/en/)：离线查看 Wikipedia、TED、StackExchange 或其他网站资源的工具。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
   
