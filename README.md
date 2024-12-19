@@ -9,7 +9,8 @@
 - 以开源和免费软件为主；
 - 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
 - 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他系统（Windows、Linux、iOS 或 Android）；
-- :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，若无必要，不建议开启。
+- :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，若无必要，不建议开启；
+- :warning: 部分软件可能对系统的最低版本有要求，请留意查看软件页面的介绍。
 
 ## Package manager
 
@@ -127,4 +128,6 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [TomatoBar](https://github.com/ivoronin/TomatoBar)：番茄时钟，菜单栏工具；可选产品有 [Tomito](https://tomito.app/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Kiwix](https://kiwix.org/en/)：离线查看 Wikipedia、TED、StackExchange 或其他网站资源的工具，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
+- [FixTim](https://github.com/Lakr233/FixTim)：修复 macOS 上一些奇怪的系统 bug （不包含硬件或 kernel 问题）而无须重启系统。
   
