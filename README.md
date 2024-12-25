@@ -49,6 +49,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [The Unarchiver](https://macpaw.com/the-unarchiver)：解压缩工具，支持多种常见压缩包格式；可选产品有 [Keka](https://www.keka.io/zh-cn/)。
 
+- [KeePassXC](https://keepassxc.org/)：密码管理工具，跨平台；可选产品有 [vaultwarden](https://www.vaultwarden.net/)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
 - [LocalSend](https://localsend.org/zh-CN)：去中心化、端到端加密的文件传输工具，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [ImageOptim](https://imageoptim.com/mac)：图片压缩工具，支持清除 EXIF 数据；可选产品有 [Caesium](https://saerasoft.com/caesium) 或  [squoosh](https://squoosh.app/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
