@@ -135,3 +135,5 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [FixTim](https://github.com/Lakr233/FixTim)：修复 macOS 上一些奇怪的系统 bug （不包含硬件或 kernel 问题）而无须重启系统。
   
+## Best wishs
+<img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
