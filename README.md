@@ -140,5 +140,5 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [Office-Reset](https://office-reset.com/)：解决 MS Office for Mac 系列软件的各种疑难杂症。 
   
-## Best wished
+## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
