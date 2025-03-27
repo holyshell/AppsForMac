@@ -138,7 +138,9 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [FixTim](https://github.com/Lakr233/FixTim)：修复 macOS 上一些奇怪的系统 bug （不包含硬件或 kernel 问题）而无须重启系统。
 
-- [Office-Reset](https://office-reset.com/)：解决 MS Office for Mac 系列软件的各种疑难杂症。 
+- [Office-Reset](https://office-reset.com/)：解决 MS Office for Mac 系列软件的各种疑难杂症。
+
+- [OpenMTP](https://github.com/ganeshrvel/openmtp)：用于 Mac 和 Android 之间安全的传输文件。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
