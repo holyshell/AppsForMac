@@ -8,7 +8,7 @@
 
 - 以开源和免费软件为主；
 - 不包含系统自带软件和大众常用的社交、音乐、沟通类软件；
-- 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
+- 优先选择图形界面( GUI )软件，也包含 CLI（命令行界面）和 Web 产品；
 - 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他系统（Windows、Linux、iOS 或 Android）；
 - :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，若无必要，不建议开启；
 - :warning: 部分软件可能对系统的最低版本有要求，请留意查看软件页面的介绍。
@@ -143,6 +143,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [OpenMTP](https://github.com/ganeshrvel/openmtp)：用于 Mac 和 Android 之间安全的传输文件。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [ProNotes](https://www.pronotes.app/)：默认备忘录的增强插件，支持格式栏、markdown、命令等，AI功能付费。
+
+- [MinerU](https://github.com/opendatalab/MinerU)：支持 PDF/Word 等文档解析输出 Markdown/HTML 等格式，跨平台[图形化](https://mineru.net/)版本。
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
