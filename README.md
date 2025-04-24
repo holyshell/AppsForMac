@@ -112,6 +112,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [LM Studio](https://lmstudio.ai/)：一站式本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/) 。
 
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio)：支持多服务商集成的 AI 对话客户端，跨平台；可选产品有[ChatWise](https://chatwise.app/)（含付费功能）。
+
 - [OmniDiskSweeper](https://www.omnigroup.com/more)：磁盘空间分析工具，快速查看大文件并打开或删除到废纸篓。
 
 - [NetNewsWire](https://netnewswire.com/)：RSS 管理和阅读工具，同时支持 iOS 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
