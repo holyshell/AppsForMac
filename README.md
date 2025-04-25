@@ -8,17 +8,16 @@
 
 - 以开源和免费软件为主；
 - 不包含系统自带软件和大众常用的社交、音乐、沟通类软件；
-- 优先选择图形界面( GUI )软件，也包含 CLI（命令行界面）和 Web 产品；
 - 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他系统（Windows、Linux、iOS 或 Android）；
-- :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，若无必要，不建议开启；
+- :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，按需开启；
 - :warning: 部分软件可能对系统的最低版本有要求，请留意查看软件页面的介绍。
 
 ## Package manager
 
-macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，在支持的情况下会优先使用 Homebrew 对软件进行管理，同类产品还有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/)，Homebrew 命令简要说明如下（更多可查阅[官方文档](https://docs.brew.sh/)）：
+macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，同类可选产品有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/)，Homebrew 命令简要说明如下（更多可查阅[官方文档](https://docs.brew.sh/)）：
 
-- `brew install [--cask] xxx`：安装软件，如果安装图形界面软件则加上`--cask`参数；
-- `brew uninstall [--cask] xxx`：卸载软件，如果卸载图形界面软件则加上`--cask`参数；
+- `brew install [--cask] xxx`：安装软件，若安装图形界面软件则加上`--cask`参数；
+- `brew uninstall [--cask] xxx`：卸载软件，若卸载图形界面软件则加上`--cask`参数；
 - `brew list`：列出所有已安装软件；
 - `brew info xxx`：查看某软件信息；
 - `brew upgrade xxx`：更新某个软件；
