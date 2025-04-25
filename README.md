@@ -48,7 +48,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [ICE](https://icemenubar.app/)：菜单栏管理工具，支持自定义调整；可选产品有 [Hidden Bar](https://github.com/dwarvesf/hidden)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [The Unarchiver](https://macpaw.com/the-unarchiver)：解压缩工具，支持多种常见压缩包格式；可选产品有 [Keka](https://www.keka.io/zh-cn/)。
+- [The Unarchiver](https://macpaw.com/the-unarchiver)：解压缩工具，支持多种常见压缩包格式；可选产品有 [Keka](https://www.keka.io/zh-cn/)、[PeaZip](https://peazip.github.io/)。
 
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)：剪切板管理工具，支持 OCR 识别，跨平台；可选产品有 [CopyQ](https://github.com/hluk/CopyQ)。
 
