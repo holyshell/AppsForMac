@@ -152,6 +152,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [MinerU](https://github.com/opendatalab/MinerU)：支持 PDF/Word 等文档解析输出 Markdown/HTML 等格式，跨平台[图形化](https://mineru.net/)版本。
 
 - [Upscayl](https://github.com/upscayl/upscayl)：使用 AI 模型实现图片无损放大的工具，跨平台；可选产品有 [HiPixel](https://github.com/okooo5km/HiPixel) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
+- [Mounty](https://mounty.app/)：可以将 NTFS 分区重新挂载为读写模式。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
