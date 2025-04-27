@@ -10,11 +10,12 @@
 - 不包含系统自带软件和大众常用的社交、音乐、沟通类软件；
 - 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他系统（Windows、Linux、iOS 或 Android）；
 - :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，按需开启；
-- :warning: 部分软件可能对系统的最低版本有要求，请留意查看软件页面的介绍。
+- :warning: 部分软件可能对系统的最低版本有要求，请留意查看软件页面的介绍；
+- 若安装软件后出现无法打开或损坏可以尝试使用`xattr -r -d com.apple.quarantine <filename>`命令解决。
 
 ## Package manager
 
-macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，同类可选产品有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/)，Homebrew 命令简要说明如下（更多可查阅[官方文档](https://docs.brew.sh/)）：
+macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，同类可选产品有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/)，Homebrew 命令简要如下（更多可查阅[官方文档](https://docs.brew.sh/)）：
 
 - `brew install [--cask] xxx`：安装软件，若安装图形界面软件则加上`--cask`参数；
 - `brew uninstall [--cask] xxx`：卸载软件，若卸载图形界面软件则加上`--cask`参数；
@@ -156,6 +157,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Mounty](https://mounty.app/)：可以将 NTFS 分区重新挂载为读写模式。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Itsycal](https://www.mowglii.com/itsycal/)：菜单栏日历软件，支持 URL scheme 和集成系统日历。
+
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)：键盘自定义工具，内置规则，也可以自行配置。
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
