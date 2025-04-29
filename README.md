@@ -28,7 +28,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 > 带有 <img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">标识表示可以使用 Homebrew 进行管理。
 
-- [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/)：非 Chromium 类开源浏览器，跨平台；可选产品有 [Chrome](https://www.google.cn/intl/zh-CN/chrome/) 、[Edge](https://www.microsoft.com/zh-CN/edge/mac)、[Arc](https://arc.net/download)、[Brave](https://brave.com/zh/)、[Vivaldi](https://vivaldi.com/zh-hans/)、[Orion](https://kagi.com/orion/)等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/)：非 Chromium 类开源浏览器，跨平台；可选产品有 [Chrome](https://www.google.cn/intl/zh-CN/chrome/) 、[Edge](https://www.microsoft.com/zh-CN/edge/mac)、[Brave](https://brave.com/zh/)、[Vivaldi](https://vivaldi.com/zh-hans/)、[Orion](https://kagi.com/orion/)等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [IINA](https://iina.io/)：音视频播放器，几乎支持所有音视频格式，可选产品有 [VLC](https://www.videolan.org/vlc/)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
@@ -157,6 +157,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Itsycal](https://www.mowglii.com/itsycal/)：菜单栏日历软件，支持 URL scheme 和集成系统日历。
 
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)：键盘自定义工具，内置规则，也可以自行配置。
+
+- [Zen](https://github.com/ZenPrivacy/zen-desktop)：通过拦截 HTTP 请求来实现系统级的广告过滤和隐私防护工具。
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
