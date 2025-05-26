@@ -161,6 +161,8 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 - [Zen](https://github.com/ZenPrivacy/zen-desktop)：通过拦截 HTTP 请求来实现系统级的广告过滤和隐私防护工具。
 
 - [InputSourcePro](https://github.com/runjuu/InputSourcePro)：为每个应用设置不同的输入法，避免频繁切换。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+
+- [SyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)：为系统自带的快速预览（ Quick Look ）增加代码高亮功能，支持自定义。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
