@@ -166,3 +166,13 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
+
+## Star History
+
+<a href="https://www.star-history.com/#holyshell/AppsForMac&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=holyshell/AppsForMac&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=holyshell/AppsForMac&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=holyshell/AppsForMac&type=Date" />
+ </picture>
+</a>
