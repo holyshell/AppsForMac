@@ -2,16 +2,16 @@
 
 > Some awesome software for macOS.
 
-## introduction
-
 本[仓库](https://github.com/holyshell/AppsForMac)基于个人偏好，记录 macOS 平台优秀的实用软件，不定时更新。 😄
 
 - 以开源和免费软件为主；
-- 不包含系统自带软件和大众常用的社交、音乐、沟通类软件；
-- 描述有`跨平台`的软件表示除支持 macOS 外， 还支持其他系统（Windows、Linux、iOS 或 Android）；
-- :warning: 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，按需开启；
-- :warning: 部分软件可能对系统的最低版本有要求，请留意查看软件页面的介绍；
+- 不包含系统自带软件和大众常用社交、音乐、沟通类软件；
+- 描述中有`跨平台`表示除 macOS 外， 还支持其他系统如 Windows、Linux、iOS 或 Android；
 - 若安装软件后出现无法打开或损坏可以尝试使用`xattr -r -d com.apple.quarantine <filename>`命令解决。
+
+> [!tip]
+> - 如果有软件需要完全磁盘访问（Full Disk Access）权限请谨慎，按需开启；
+> - 部分软件可能对系统的最低版本有要求，请留意查看软件页面的介绍。
 
 ## Package manager
 
