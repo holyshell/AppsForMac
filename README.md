@@ -109,7 +109,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [MOS](https://github.com/Caldis/Mos)：鼠标增强工具，平滑鼠标滚动；可选产品有 [Mac-mouse-fix](https://macmousefix.com/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [HandBrake](https://handbrake.fr/)：视频转码器，支持视频格式转换和压缩，跨平台。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [HandBrake](https://handbrake.fr/)：视频转码器，支持视频格式转换和压缩，跨平台；可选产品有 [Shutter Encoder](https://www.shutterencoder.com/)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [Joplin](https://joplinapp.org/)：基于 Markdown 的笔记工具，跨平台；可选产品有 [MiaoYan](https://github.com/tw93/MiaoYan)、[MarkEdit](https://github.com/MarkEdit-app/MarkEdit) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
