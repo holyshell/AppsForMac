@@ -51,7 +51,7 @@ macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](htt
 
 - [The Unarchiver](https://macpaw.com/the-unarchiver)：解压缩工具，支持多种常见压缩包格式；可选产品有 [Keka](https://www.keka.io/zh-cn/)、[PeaZip](https://peazip.github.io/)。
 
-- [PictureView](https://wl879.github.io/apps/picview/index.html)：图片浏览工具，支持多种模式，适合作为默认看图应用。
+- [PictureView](https://wl879.github.io/apps/picview/index.html)：图片浏览工具，支持多种模式；可选产品有 [PicView](https://github.com/Ruben2776/PicView)。
 
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)：剪切板管理工具，支持 OCR 识别，跨平台；可选产品有 [CopyQ](https://github.com/hluk/CopyQ)。
 
