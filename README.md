@@ -16,14 +16,19 @@
 
 ## Package manager
 
-macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，同类可选产品有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/)，Homebrew 命令简要如下（更多可查阅[官方文档](https://docs.brew.sh/)）：
+macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，同类可选产品有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/) 。
 
-- `brew install [--cask] xxx`：安装软件，若安装图形界面软件则加上`--cask`参数；
-- `brew uninstall [--cask] xxx`：卸载软件，若卸载图形界面软件则加上`--cask`参数；
-- `brew list`：列出所有已安装软件；
-- `brew info xxx`：查看某软件信息；
-- `brew upgrade xxx`：更新某个软件；
-- `brew cleanup xxx`：清理某软件的旧版本。
+<details>
+<summary>Homebrew 命令简要说明</summary>
+  
+  - `brew install [--cask] xxx`：安装软件，若安装图形界面软件则加上`--cask`参数；
+  - `brew uninstall [--cask] xxx`：卸载软件，若卸载图形界面软件则加上`--cask`参数；
+  - `brew list`：列出所有已安装软件；
+  - `brew info xxx`：查看某软件信息；
+  - `brew upgrade xxx`：更新某个软件；
+  - `brew cleanup xxx`：清理某软件的旧版本；
+  - 更多使用方式可查阅[官方文档](https://docs.brew.sh/)。
+</details>
 
 ## Apps
 
