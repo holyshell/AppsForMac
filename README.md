@@ -16,7 +16,7 @@
 
 ## Package manager
 
-macOS 平台的软件管理除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，同类可选产品有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/) 。
+macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)，同类可选产品有 [MacPorts](https://www.macports.org/index.php)、[Applite](https://aerolite.dev/applite) 或 [Cakebrew](https://www.cakebrew.com/) 。
 
 <details>
 <summary>Homebrew 命令简要说明</summary>
