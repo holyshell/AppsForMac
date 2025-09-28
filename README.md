@@ -175,6 +175,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [FlashSpace](https://github.com/wojciech-kulik/FlashSpace)：虚拟工作空间管理工具，支持多显示器和其他自定义配置。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)：多功能实用工具，进行多种系统配置，替代复杂的系统命令。
+
+- [LaunchNext](https://github.com/RoversX/LaunchNext)：仅适用 macOS 26（Tahoe），将传统的 Launchpad 重新带回来。 
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
