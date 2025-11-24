@@ -92,7 +92,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [UTM](https://mac.getutm.app/)：虚拟机管理工具；可选产品有 [VMware Fusion Pro](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)、[VirtualBox](https://www.virtualbox.org/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Clash verge rev](https://github.com/clash-verge-rev/clash-verge-rev)：网络代理管理工具；可选产品有 [Mihomo Party ](https://github.com/mihomo-party-org/mihomo-party)、[FIClash](https://github.com/chen08209/FlClash)、[Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)等。
+- [v2rayN](https://github.com/2dust/v2rayN)：网络代理管理工具；可选产品有 [Mihomo Party ](https://github.com/mihomo-party-org/mihomo-party)、[FIClash](https://github.com/chen08209/FlClash)、[Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)、[Sparkle](https://github.com/xishang0128/sparkle)等。
 
 - [Obsidian](https://obsidian.md/)：本地化的知识管理工具，跨平台，含付费功能；可选产品有 [Logseq](https://logseq.com/)、[Anytype](https://anytype.io/)、[Zettlr](https://www.zettlr.com/) 等。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
