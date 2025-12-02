@@ -44,7 +44,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [Squirrel](https://github.com/rime/squirrel)：鼠须管输入法，支持高度自定义，跨平台，配置和字库可使用 [rime-ice](https://github.com/iDvel/rime-ice) ；可选产品有 [Fcitx](https://fcitx-contrib.github.io/docs/) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [Snipaste](https://zh.snipaste.com/)：截图工具，支持贴图、标注、取色等，跨平台；可选产品有 [Flameshot](https://flameshot.org/)。
+- [Snipaste](https://zh.snipaste.com/)：截图工具，支持贴图、标注、取色等，跨平台；可选产品有 [Flameshot](https://flameshot.org/)、[Snow-Shot](https://github.com/mg-chao/snow-shot)。
 
 - [NDM](https://www.neatdownloadmanager.com/index.php/en/)：多线程下载工具，支持浏览器插件进行流媒体下载，跨平台；可选产品有 [FDM](https://www.freedownloadmanager.org/zh/)、[qbittorrent-E](https://github.com/c0re100/qBittorrent-Enhanced-Edition)。
 
