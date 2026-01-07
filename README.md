@@ -178,7 +178,9 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)：多功能实用工具，进行多种系统配置，替代复杂的系统命令。
 
-- [LaunchNext](https://github.com/RoversX/LaunchNext)：仅适用 macOS 26（Tahoe），将传统的 Launchpad 重新带回来。 
+- [LaunchNext](https://github.com/RoversX/LaunchNext)：仅适用 macOS 26（Tahoe），将传统的 Launchpad 重新带回来。
+
+- [wBlock](https://github.com/0xCUB3/wBlock)：Safari 浏览器的广告拦截器。
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
