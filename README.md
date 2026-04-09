@@ -52,7 +52,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [PrettyClean](https://www.prettyclean.cc/zh)：轻量级磁盘清理工具，带有软件卸载功能。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [ICE](https://icemenubar.app/)：菜单栏管理工具，支持自定义调整；可选产品有 [Hidden Bar](https://github.com/dwarvesf/hidden)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
+- [ICE](https://icemenubar.app/)：菜单栏管理工具，支持自定义调整；可选产品有 [Thaw](https://github.com/stonerl/Thaw)、[Hidden Bar](https://github.com/dwarvesf/hidden)。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
 - [The Unarchiver](https://macpaw.com/the-unarchiver)：解压缩工具，支持多种常见压缩包格式；可选产品有 [Keka](https://www.keka.io/zh-cn/)、[PeaZip](https://peazip.github.io/)。
 
