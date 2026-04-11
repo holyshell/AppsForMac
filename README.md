@@ -181,6 +181,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [LaunchNext](https://github.com/RoversX/LaunchNext)：仅适用 macOS 26（Tahoe），将传统的 Launchpad 重新带回来。
 
 - [wBlock](https://github.com/0xCUB3/wBlock)：Safari 浏览器的广告拦截器。
+
+- [macUSB](https://github.com/Kruszoneq/macUSB)：制作 Mac 启动盘，支持 M 芯片和 Intel 芯片。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
   
 ## Best wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
