@@ -120,7 +120,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [Joplin](https://joplinapp.org/)：基于 Markdown 的笔记工具，跨平台；可选产品有 [MiaoYan](https://github.com/tw93/MiaoYan)、[MarkEdit](https://github.com/MarkEdit-app/MarkEdit) 。<img width = "18" height = "18" src="https://raw.githubusercontent.com/holyshell/ToolsForMac/72231dbe1542e83550656097a8a9463504255b5c/media/homebrew.svg">
 
-- [LM Studio](https://lmstudio.ai/)：一站式本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/) 。
+- [LM Studio](https://lmstudio.ai/)：本地部署大模型工具，支持模型搜索/下载/聊天等功能，跨平台；可选产品有 [Ollama](https://ollama.com/)、[vMLX](https://github.com/jjang-ai/mlxstudio)。
 
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio)：支持多服务商集成的 AI 对话客户端，跨平台；可选产品有 [ChatWise](https://chatwise.app/)（含付费功能）。
 
