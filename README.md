@@ -138,7 +138,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [Billfish](https://www.billfish.cn/)：素材管理工具，支持多种常见文件格式和浏览器插件；可选产品有 [Pixcall](https://pixcall.com/download) 。
 
-- [Drawio](https://github.com/jgraph/drawio-desktop)：流程图和白板工具，[在线版本](https://app.diagrams.net/)；可选产品有 [Excalidraw](https://excalidraw.com/) 。
+- [Drawio](https://github.com/jgraph/drawio-desktop)：流程图和白板工具，[在线版本](https://app.diagrams.net/)；可选产品有 [Excalidraw](https://excalidraw.com/) 、[Drawnix](https://github.com/plait-board/drawnix)。
 
 - [Achico](https://github.com/nuance-dev/achico)：图片、音视频和PDF等文件压缩工具，作者其他的 mini 工具可查他的 GitHub 主页。
 
@@ -183,6 +183,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [wBlock](https://github.com/0xCUB3/wBlock)：Safari 浏览器的广告拦截器。
 
 - [macUSB](https://github.com/Kruszoneq/macUSB)：制作 Mac 启动盘，支持 M 芯片和 Intel 芯片。📍
+
+- [flux-markdown](https://github.com/xykong/flux-markdown)：空格键预览 markdown 文档，支持公式、图表、导出等；可选产品有[QLMarkdown](https://github.com/sbarex/QLMarkdown)。
   
 ## Buy me a coffee
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
