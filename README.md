@@ -185,6 +185,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [macUSB](https://github.com/Kruszoneq/macUSB)：制作 Mac 启动盘，支持 M 芯片和 Intel 芯片。📍
 
 - [flux-markdown](https://github.com/xykong/flux-markdown)：空格键预览 markdown 文档，支持公式、图表、导出等；可选产品有[QLMarkdown](https://github.com/sbarex/QLMarkdown)。
+
+- [OpenDisplay](https://github.com/peetzweg/opendisplay)：将 iPhone 或 iPad 作为 Mac 的扩展屏幕。
   
 ## Buy me a coffee
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
