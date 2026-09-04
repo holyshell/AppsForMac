@@ -42,6 +42,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [Raycast](https://www.raycast.com)：综合效率工具，支持插件，可替代很多独立软件，含付费功能。📍
 
+- [Focuh](https://www.focuh.com/)：免费 ADHD 待办与周计划工具，内置专注计时器和系统级网站/应用屏蔽，另有网页版。
+
 - [Squirrel](https://github.com/rime/squirrel)：鼠须管输入法，支持高度自定义，跨平台，配置和字库可使用 [rime-ice](https://github.com/iDvel/rime-ice) ；可选产品有 [Fcitx](https://fcitx-contrib.github.io/docs/) 。📍
 
 - [Snipaste](https://zh.snipaste.com/)：截图工具，支持贴图、标注、取色等，跨平台；可选产品有 [Flameshot](https://flameshot.org/)、[Snow-Shot](https://github.com/mg-chao/snow-shot)。
