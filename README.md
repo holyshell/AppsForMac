@@ -124,6 +124,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio)：支持多服务商集成的 AI 对话客户端，跨平台；可选产品有 [ChatWise](https://chatwise.app/)（含付费功能）。
 
+- [Orkas](https://orkas.ai/?source=gh_appsformac)：开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作，跨平台。
+
 - [OmniDiskSweeper](https://www.omnigroup.com/more)：磁盘空间分析工具，快速查看大文件并打开或删除到废纸篓。
 
 - [NetNewsWire](https://netnewswire.com/)：RSS 管理和阅读工具，跨平台；可选产品有 [Flare](https://github.com/DimensionDev/Flare) 。📍
