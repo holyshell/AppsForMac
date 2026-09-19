@@ -187,6 +187,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [flux-markdown](https://github.com/xykong/flux-markdown)：空格键预览 markdown 文档，支持公式、图表、导出等；可选产品有[QLMarkdown](https://github.com/sbarex/QLMarkdown)。
 
 - [OpenDisplay](https://github.com/peetzweg/opendisplay)：将 iPhone 或 iPad 作为 Mac 的扩展屏幕。
+
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell)：macOS 26 桌面 Shell，侧边栏自带程序坞，另有启动器、仪表盘和控制中心，风格参考 Linux 上的 Caelestia。📍
   
 ## Buy me a coffee
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
