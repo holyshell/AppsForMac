@@ -190,6 +190,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [Lap](https://github.com/julyx10/lap)：本地优先，以文件夹为中心的照片管理工具，跨平台。📍
   
+- [Glim](https://github.com/NeoPanic/Glim)：免费开源的多格式文件查看器，在同一个 Mac 工作区查看 Markdown 图表与公式、PDF、图片、JSON、CSV 和源代码，支持普通 UTF-8 文本的基础编辑与自动保存。
+
 ## Buy me a coffee
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
