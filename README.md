@@ -51,6 +51,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [PearCleaner](https://github.com/alienator88/Pearcleaner)：软件卸载工具，可选产品有 [AppCleaner](https://freemacsoft.net/appcleaner/)。 📍
 
 - [PrettyClean](https://www.prettyclean.cc/zh)：轻量级磁盘清理工具，带有软件卸载功能；可选产品有 [Mole](https://github.com/tw93/Mole) 。📍
+- [MacClean](https://thulem.com/)：微信 / Xcode / Mac 存储清理工具，Freemium（Pro ¥98 买断）；可选产品有 [PrettyClean](https://www.prettyclean.cc/zh)。
 
 - [ICE](https://icemenubar.app/)：菜单栏管理工具，支持自定义调整；可选产品有 [Thaw](https://github.com/stonerl/Thaw)、[Hidden Bar](https://github.com/dwarvesf/hidden)。📍
 
