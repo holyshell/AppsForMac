@@ -83,6 +83,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [Easydict](https://github.com/tisfeng/Easydict)：词典翻译工具，支持 OCR 和多种翻译服务；可选产品有 [Pot](https://github.com/pot-app/pot-desktop) 。📍
 
 - [Loop](https://github.com/MrKai77/Loop)：轻量级窗口管理工具；可选产品有 [Rectangle](https://github.com/rxhanson/Rectangle)（含付费功能）。📍
+- [Command Reopen](https://commandreopen.com/)：零权限修复原生 Cmd+Tab，自动恢复被最小化或关闭的窗口（MIT 开源；Mac App Store 2 天试用后 $9.99 买断，无订阅）。[GitHub](https://github.com/Feng6611/mac-command-reopen) 📍
 
 - [Battery](https://github.com/actuallymentor/battery)：将电池电量限制在80%，延长电池寿命；可选产品有 [AIDente](https://apphousekitchen.com/zh-hans/)（含付费功能）。📍
 
