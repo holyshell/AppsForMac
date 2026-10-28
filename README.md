@@ -189,6 +189,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 - [OpenDisplay](https://github.com/peetzweg/opendisplay)：将 iPhone 或 iPad 作为 Mac 的扩展屏幕。
 
 - [Lap](https://github.com/julyx10/lap)：本地优先，以文件夹为中心的照片管理工具，跨平台。📍
+
+- [Linkit](https://github.com/blue-idea/linkit)：本地优先的 AI 书签管理器，自动摘要、语义搜索与知识图谱，完全免费无付费墙，跨平台；可选产品有 [Raindrop](https://raindrop.io/)、[Karakeep](https://github.com/karakeep-app/karakeep) 。📍
   
 ## Buy me a coffee
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
