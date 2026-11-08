@@ -31,6 +31,9 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 </details>
 
 ## Apps
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 > 带有 📍 标识表示可以使用 Homebrew 进行管理。
 
