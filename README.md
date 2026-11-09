@@ -202,3 +202,6 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=holyshell/AppsForMac&type=Date" />
  </picture>
 </a>
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac in the empty corner beside the Dock (cover + title in its colour). `Free` `Open Source`
