@@ -136,6 +136,8 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [Command X](https://sindresorhus.com/command-x)：在 Finder 中进行文件的剪切`Command+X`和粘贴`Command+V`小工具，代替传统复杂的快捷键。
 
+- [QuickRight 闪电右键](https://apps.apple.com/us/app/quickright/id6763963598?mt=12)：给访达右键菜单补上系统缺的操作，新建文本/Markdown/Word 等格式文件（可自定义模板）、剪切移动、复制完整路径、在当前文件夹打开终端、图片转换压缩、算 SHA-256；无订阅、无需账号。
+
 - [Billfish](https://www.billfish.cn/)：素材管理工具，支持多种常见文件格式和浏览器插件；可选产品有 [Pixcall](https://pixcall.com/download) 。
 
 - [Drawio](https://github.com/jgraph/drawio-desktop)：流程图和白板工具，[在线版本](https://app.diagrams.net/)；可选产品有 [Excalidraw](https://excalidraw.com/) 、[Drawnix](https://github.com/plait-board/drawnix)。
